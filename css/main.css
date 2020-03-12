@@ -36,3 +36,15 @@ div {
   position: relative;
   text-transform: uppercase;
   letter-spacing: 40px;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0 auto;
+  animation:
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
