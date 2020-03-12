@@ -25,7 +25,6 @@ div {
   font-family: "Open Sans", sans-serif;
   color: #131833;
   position: relative;
-  text-transform: uppercase;
   letter-spacing: 10px;
 }
 
@@ -34,7 +33,6 @@ div {
   font-family: Raleway, sans-serif;
   color: #f1f1f1;
   position: relative;
-  text-transform: uppercase;
   letter-spacing: 40px;
   overflow: hidden;
   white-space: nowrap;
