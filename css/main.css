@@ -9,3 +9,30 @@ h1 {
   letter-spacing: 20px;
   visibility: hidden;
 }
+
+div {
+  display: inline-block;
+  text-align: center;
+}
+
+.box-1 {
+  background-color: #052c42;
+  margin: 0;
+  overflow: hidden;
+}
+
+.fontone {
+  font-family: "Open Sans", sans-serif;
+  color: #131833;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+.fonttwo {
+  display: block;
+  font-family: Raleway, sans-serif;
+  color: #f1f1f1;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 40px;
