@@ -5,7 +5,6 @@ html {
 h1 {
   font-family: Raleway, sans-serif;
   color: #f1f1f1;
-  text-transform: uppercase;
   letter-spacing: 20px;
   visibility: hidden;
 }
